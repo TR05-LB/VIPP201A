@@ -1,2 +1,2 @@
-# VIPP201A
+# VIPP201A Biodiversity AI Project
 Project codes and description.
